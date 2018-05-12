@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44518#Points-of-Humour-Part-II--of-II-
 gutenberg_issued: '2013-12-26'
 gutenberg_type: Text
 identifiers:
